@@ -1,6 +1,6 @@
 # Gomoku-Game-by-React
 
-This Gomoku game is created based on the [Tic-Tac-Toe game](https://facebook.github.io/react/tutorial/tutorial.html) of React.
+Inspired from [Tic-Tac-Toe game](https://facebook.github.io/react/tutorial/tutorial.html) of React, I created this Gomoku game with a lot of fun!
 
 I overwrote the "calculateWinner" function, added chess pieces, and modified the layout of the game.
 
